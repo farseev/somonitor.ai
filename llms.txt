@@ -1,0 +1,50 @@
+# Somonitor
+
+> Somonitor is an always-on social and brand listening app. It tracks share of voice, decodes the tones, emotions and tensions in real conversations, and raises early warnings when a topic starts to turn. Its listening layer runs on SOMIN, an AI audience-research platform and Somonitor's technology partner, so every conclusion links back to the posts that evidence it.
+
+- Website: https://somonitor.ai/
+- Contact: ask@somonitor.ai
+- Based in: Singapore
+- Technology partner: SOMIN (https://somin.ai/), an AI audience-research and creative-intelligence platform
+
+## What we do
+- Share of voice that means something: Compare your brand with competitors by conversation, not just mention count. See which themes you own and which you are losing.
+- Conversation signals: Tones, emotions and tensions decoded from real posts by SOMIN's concept engine. Each concept tag links to the posts that evidence it.
+- Crisis early warning: Somonitor watches for unusual shifts in volume, emotion and spread around sensitive topics. You get a short alert with the posts that triggered it.
+- Cross-platform audience view: One consistent read of audiences across social platforms, using shared concepts rather than each platform's own metrics.
+- Niche community radar: Find the small, intense communities that broad trackers miss. Fandoms often set the tone long before mainstream volume arrives.
+- Checkable AI summaries: Weekly briefs written in plain English, with every claim footnoted to source posts. Nothing you cannot verify.
+
+## Key pages
+- [Home](https://somonitor.ai/): Somonitor is an always-on social listening app: share of voice, conversation signals and crisis alerts, each traceable to real posts.
+- [Blog](https://somonitor.ai/blog/): ten articles
+- [Brand guidelines](https://somonitor.ai/brand/)
+
+## Articles
+- [Share of voice that means something: beyond mention counts](https://somonitor.ai/blog/share-of-voice-that-means-something/): Share of voice by mention count rewards noise. Here is how to measure share of conversation by theme, emotion and tension, with evidence you can check.
+- [Listening vs tracking: the ethics of hearing your audience](https://somonitor.ai/blog/listening-vs-tracking-ethics/): Audiences distrust brands that know them too well. Why listening beats tracking, plus a practical code for ethical social listening.
+- [Crisis early warning: reading the signals before they trend](https://somonitor.ai/blog/crisis-early-warning-signals/): Most social crises are visible hours or days before they trend. The signals to watch, a triage framework and how to avoid crying wolf.
+- [How to measure audiences across platforms consistently](https://somonitor.ai/blog/measuring-audiences-across-platforms/): Every platform reports engagement differently. A practical method for one consistent read of audiences across social platforms, using shared concepts.
+- [Niche fandoms: why small communities set the tone](https://somonitor.ai/blog/niche-fandoms-listening/): Broad listening misses small, intense communities like women's football fans. How to find niche fandoms, read them respectfully and act early.
+- [Why every AI listening conclusion should be checkable](https://somonitor.ai/blog/checkable-ai-conclusions/): AI summaries make listening fast but can be confidently wrong. Why every conclusion should trace to its posts, and how to audit one.
+- [Beyond sentiment: reading tones, emotions and tensions](https://somonitor.ai/blog/beyond-sentiment-tones-emotions-tensions/): Positive, negative, neutral hides what people mean. How tones, emotions and tensions give social listening a sharper, more useful reading of conversation.
+- [Segmenting Gen Z by conversation, not birth year](https://somonitor.ai/blog/gen-z-segmentation-by-conversation/): Gen Z is not one audience. How social listening reveals the communities, tensions and codes that actually segment younger audiences across Southeast Asia.
+- [Generative AI is changing brand visibility. Listen first](https://somonitor.ai/blog/generative-ai-brand-visibility-listening/): AI assistants now summarise what people say about brands. Why social conversation shapes AI answers, and how listening helps you see what they will say.
+- [How to set up always-on social listening that people use](https://somonitor.ai/blog/always-on-listening-setup/): Most listening dashboards are abandoned within months. A practical setup for always-on brand listening: queries, rhythms, owners and alerts that stick.
+
+## FAQ
+- **What is Somonitor?** Somonitor is an always-on social and brand listening app. It measures share of voice, decodes conversation signals such as tones, emotions and tensions, and raises early warnings when a topic starts to shift. It is built on SOMIN's concept engine, and every insight links to the public posts behind it.
+- **How is Somonitor different from a mention tracker?** A mention tracker counts how often your name appears. Somonitor reads what people mean. It groups conversation into concepts, compares how you and competitors are discussed, and shows the specific posts that support each conclusion, so the output is an argument you can check rather than a number you have to trust.
+- **Does Somonitor track individual people?** No. Somonitor listens to public conversation and reports patterns at the level of themes, concepts and communities. It is designed around listening rather than tracking individuals, because audiences rightly distrust brands that seem to know too much about them.
+- **What role does SOMIN play?** SOMIN, an AI audience-research platform, is Somonitor's technology partner. Its concept engine decodes posts into tones, emotions and tensions and keeps every tag traceable to its evidence. Somonitor adds the always-on monitoring, share-of-voice views and alerting on top.
+- **Can Somonitor warn us about a crisis?** Somonitor watches for unusual combinations of rising volume, shifting emotion and spread into new communities around topics you flag as sensitive. Alerts are short and come with the posts that triggered them, so your team can judge severity quickly instead of reacting to a raw spike.
+- **How do we get access?** Somonitor is in early access. Email ask@somonitor.ai with your brand, your main competitors and what you most want to hear sooner, and we will set up a walkthrough.
+
+## Sister companies
+- [Marketing Mondays](https://mondays.marketing/): One real signal, decoded every Monday
+- [Trafix](https://trafix.app/): Paid traffic, measured in profit
+- [AgentC](https://agentc.marketing/): Agents play. Humans conduct.
+- [GPT3 Marketing](https://gpt3.marketing/): Six years of AI content craft
+- [GPT5 Marketing](https://gpt5.marketing/): Marketing redesigned for reasoning models
+- [Mindfuse](https://mindfuse.sg/): Consumer psychology and culture, decoded for SEA
+- [SNMRush](https://snmrush.com/): Search, Neural answers, Mentions. One rush.

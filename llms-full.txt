@@ -1,0 +1,905 @@
+# Somonitor
+
+> Somonitor is an always-on social and brand listening app. It tracks share of voice, decodes the tones, emotions and tensions in real conversations, and raises early warnings when a topic starts to turn. Its listening layer runs on SOMIN, an AI audience-research platform and Somonitor's technology partner, so every conclusion links back to the posts that evidence it.
+
+- Website: https://somonitor.ai/
+- Contact: ask@somonitor.ai
+- Based in: Singapore
+- Technology partner: SOMIN (https://somin.ai/), an AI audience-research and creative-intelligence platform
+
+## What we do
+- Share of voice that means something: Compare your brand with competitors by conversation, not just mention count. See which themes you own and which you are losing.
+- Conversation signals: Tones, emotions and tensions decoded from real posts by SOMIN's concept engine. Each concept tag links to the posts that evidence it.
+- Crisis early warning: Somonitor watches for unusual shifts in volume, emotion and spread around sensitive topics. You get a short alert with the posts that triggered it.
+- Cross-platform audience view: One consistent read of audiences across social platforms, using shared concepts rather than each platform's own metrics.
+- Niche community radar: Find the small, intense communities that broad trackers miss. Fandoms often set the tone long before mainstream volume arrives.
+- Checkable AI summaries: Weekly briefs written in plain English, with every claim footnoted to source posts. Nothing you cannot verify.
+
+## Key pages
+- [Home](https://somonitor.ai/): Somonitor is an always-on social listening app: share of voice, conversation signals and crisis alerts, each traceable to real posts.
+- [Blog](https://somonitor.ai/blog/): ten articles
+- [Brand guidelines](https://somonitor.ai/brand/)
+
+## Articles
+- [Share of voice that means something: beyond mention counts](https://somonitor.ai/blog/share-of-voice-that-means-something/): Share of voice by mention count rewards noise. Here is how to measure share of conversation by theme, emotion and tension, with evidence you can check.
+- [Listening vs tracking: the ethics of hearing your audience](https://somonitor.ai/blog/listening-vs-tracking-ethics/): Audiences distrust brands that know them too well. Why listening beats tracking, plus a practical code for ethical social listening.
+- [Crisis early warning: reading the signals before they trend](https://somonitor.ai/blog/crisis-early-warning-signals/): Most social crises are visible hours or days before they trend. The signals to watch, a triage framework and how to avoid crying wolf.
+- [How to measure audiences across platforms consistently](https://somonitor.ai/blog/measuring-audiences-across-platforms/): Every platform reports engagement differently. A practical method for one consistent read of audiences across social platforms, using shared concepts.
+- [Niche fandoms: why small communities set the tone](https://somonitor.ai/blog/niche-fandoms-listening/): Broad listening misses small, intense communities like women's football fans. How to find niche fandoms, read them respectfully and act early.
+- [Why every AI listening conclusion should be checkable](https://somonitor.ai/blog/checkable-ai-conclusions/): AI summaries make listening fast but can be confidently wrong. Why every conclusion should trace to its posts, and how to audit one.
+- [Beyond sentiment: reading tones, emotions and tensions](https://somonitor.ai/blog/beyond-sentiment-tones-emotions-tensions/): Positive, negative, neutral hides what people mean. How tones, emotions and tensions give social listening a sharper, more useful reading of conversation.
+- [Segmenting Gen Z by conversation, not birth year](https://somonitor.ai/blog/gen-z-segmentation-by-conversation/): Gen Z is not one audience. How social listening reveals the communities, tensions and codes that actually segment younger audiences across Southeast Asia.
+- [Generative AI is changing brand visibility. Listen first](https://somonitor.ai/blog/generative-ai-brand-visibility-listening/): AI assistants now summarise what people say about brands. Why social conversation shapes AI answers, and how listening helps you see what they will say.
+- [How to set up always-on social listening that people use](https://somonitor.ai/blog/always-on-listening-setup/): Most listening dashboards are abandoned within months. A practical setup for always-on brand listening: queries, rhythms, owners and alerts that stick.
+
+## FAQ
+- **What is Somonitor?** Somonitor is an always-on social and brand listening app. It measures share of voice, decodes conversation signals such as tones, emotions and tensions, and raises early warnings when a topic starts to shift. It is built on SOMIN's concept engine, and every insight links to the public posts behind it.
+- **How is Somonitor different from a mention tracker?** A mention tracker counts how often your name appears. Somonitor reads what people mean. It groups conversation into concepts, compares how you and competitors are discussed, and shows the specific posts that support each conclusion, so the output is an argument you can check rather than a number you have to trust.
+- **Does Somonitor track individual people?** No. Somonitor listens to public conversation and reports patterns at the level of themes, concepts and communities. It is designed around listening rather than tracking individuals, because audiences rightly distrust brands that seem to know too much about them.
+- **What role does SOMIN play?** SOMIN, an AI audience-research platform, is Somonitor's technology partner. Its concept engine decodes posts into tones, emotions and tensions and keeps every tag traceable to its evidence. Somonitor adds the always-on monitoring, share-of-voice views and alerting on top.
+- **Can Somonitor warn us about a crisis?** Somonitor watches for unusual combinations of rising volume, shifting emotion and spread into new communities around topics you flag as sensitive. Alerts are short and come with the posts that triggered them, so your team can judge severity quickly instead of reacting to a raw spike.
+- **How do we get access?** Somonitor is in early access. Email ask@somonitor.ai with your brand, your main competitors and what you most want to hear sooner, and we will set up a walkthrough.
+
+## Sister companies
+- [Marketing Mondays](https://mondays.marketing/): One real signal, decoded every Monday
+- [Trafix](https://trafix.app/): Paid traffic, measured in profit
+- [AgentC](https://agentc.marketing/): Agents play. Humans conduct.
+- [GPT3 Marketing](https://gpt3.marketing/): Six years of AI content craft
+- [GPT5 Marketing](https://gpt5.marketing/): Marketing redesigned for reasoning models
+- [Mindfuse](https://mindfuse.sg/): Consumer psychology and culture, decoded for SEA
+- [SNMRush](https://snmrush.com/): Search, Neural answers, Mentions. One rush.
+
+
+# Full articles
+
+
+# Share of voice that means something: beyond mention counts
+URL: https://somonitor.ai/blog/share-of-voice-that-means-something/ · Published 2026-10-05
+
+Share of voice is your brand's portion of the total conversation in a category. Counted by mentions alone, it rewards noise: a giveaway or a complaint thread inflates it. Measured by theme, emotion and tension, it shows which parts of the conversation you actually own, which you are losing, and the posts that prove it.
+
+## Why does mention-based share of voice mislead?
+
+The classic formula is simple: your mentions divided by all mentions of you and your competitors. It is easy to compute and easy to put on a slide. It is also easy to game, and easy to misread.
+
+Consider three things that inflate mention volume without improving your position at all. A contest that asks people to tag your handle produces thousands of identical posts. A delivery failure produces a wave of angry replies. A celebrity mentions you in passing while talking about something else. All three push your share up. Only one of them is good news, and even that one tells you nothing about whether people now think differently about you.
+
+At Somonitor we take a firm view: share of voice should describe the conversation you are winning, not the volume you are generating. That requires reading meaning, not counting words.
+
+## What should you measure instead?
+
+We call the better measure share of conversation by concept. Instead of one number, you get a small grid. Along one axis sit the themes that matter in your category: price, reliability, service, design, values, whatever people actually talk about. Along the other sit you and your competitors. In each cell sits the share of that theme's conversation you hold, and the dominant emotion attached to it.
+
+This is where the concept engine from SOMIN, an AI audience-research platform (https://somin.ai/), does the heavy lifting inside Somonitor. It decodes posts into tones, emotions and tensions, and keeps each tag tied to the posts that evidence it. So when the grid says a competitor holds most of the conversation about reliability, you can open the cell and read why.
+
+### Definitions worth agreeing on
+
+- Share of voice (SOV): your mentions as a proportion of all tracked brand mentions in the category.
+
+- Share of conversation by concept: your proportion of the posts about a specific theme, such as reliability or price.
+
+- Emotional share: the mix of emotions attached to your share of a theme, for example pride versus frustration.
+
+- Owned theme: a theme where you hold the largest share and the emotion is broadly positive.
+
+- Contested theme: a theme where shares are close or the emotion attached to you is mixed.
+
+## How do you build a share-of-conversation grid?
+
+You do not need a data science team. You need a disciplined process and a tool that keeps the evidence attached.
+
+- Agree the competitive set. Three to six brands. Include the challenger your sales team keeps losing to, not just the incumbents.
+
+- Let the themes emerge. Resist writing the theme list from your brand guidelines. Run the listening first and see which concepts cluster. The themes your audience uses are rarely the ones in your positioning deck.
+
+- Strip the noise. Remove contest entries, bot-like duplicates and posts where your name appears incidentally. Keep a log of what you removed so the number stays honest.
+
+- Compute share per theme. For each theme, what proportion of on-topic posts mention each brand?
+
+- Attach emotion. For each cell, what is the dominant emotion, and what is the second?
+
+- Sample the evidence. Read ten posts from every cell that will drive a decision. If the posts do not support the label, the label is wrong.
+
+## A worked example
+
+Imagine a mid-sized running-shoe brand in Southeast Asia. Its raw share of voice looks healthy, roughly level with the category leader, mainly thanks to an influencer campaign. The concept grid tells a different story.
+
+On design, the brand owns the conversation and the emotion is delight. On durability, the category leader dominates, and where our brand appears it is mostly attached to disappointment: soles wearing out early. On price, a newer challenger is gaining, attached to a mix of curiosity and scepticism.
+
+The headline number said "we are doing fine". The grid says "people love how we look and doubt we last, and a cheaper rival is getting a hearing". That is a brief a product team and a content team can both act on. The brief would be very different if you only read the volume chart.
+
+For a view of how this kind of evidence-first reading plays out with a real brand, the Exostride case study on the SOMIN site (https://somin.ai/brands-exostride-case-study/) is a useful companion read.
+
+## How often should you look?
+
+Share of conversation moves slowly on most themes and quickly on a few. A monthly grid is enough to steer positioning. A weekly check on contested themes catches shifts early. And an always-on alert on sensitive themes, the ones that can turn into a crisis, is what Somonitor is built for. Our piece on reading crisis signals before they trend (/blog/crisis-early-warning-signals/) covers that layer.
+
+## Where does share of voice fit with paid media?
+
+Teams often use share of voice to justify spend: if we buy more reach, our share will go up. It will, briefly, and that is the problem. Paid reach raises volume but does little to change which themes you own. If you want to understand whether a campaign is actually profitable rather than just loud, our sister app Trafix looks at true-profit returns on paid traffic (https://trafix.app/). Pair the two and you can see whether spend moved both the conversation and the margin.
+
+Share of voice tells you how loud you are. Share of conversation tells you what you are known for. Only one of those is a strategy.
+
+## A short checklist before you report share of voice
+
+- Have contests, bots and incidental mentions been removed, with a log?
+
+- Is the number broken down by theme, not just total?
+
+- Is an emotion attached to every theme you report?
+
+- Can every claim in the report be traced to posts a colleague can read?
+
+- Have you flagged contested themes, not only owned ones?
+
+If the answer to any of these is no, the number on the slide is a volume metric dressed up as a strategy metric. Fix that first. Then share of voice becomes what it should have been all along: a map of the conversation and your place in it.
+
+
+# Listening vs tracking: the ethics of hearing your audience
+URL: https://somonitor.ai/blog/listening-vs-tracking-ethics/ · Published 2026-09-28
+
+Listening means studying public conversation in aggregate to understand what people think, feel and need. Tracking means following identifiable individuals across contexts to predict or influence them. Both use data, but they build opposite relationships: listening earns trust by responding to what people say, while tracking erodes it by knowing more than people chose to share.
+
+## Why does this distinction matter now?
+
+In the conversations we analyse about brands and AI, one theme keeps returning: people are uneasy with brands that seem to know them too well. An ad that references something you only mentioned to a friend. A recommendation that feels like being watched. The reaction is rarely gratitude. It is suspicion.
+
+The insight that shaped Somonitor came from that listening: trust is bred in the soil of conversation, not in the data of algorithms. Brands earn trust when they visibly respond to what people say in public. They lose it when they appear to be assembling private files.
+
+That gives marketers a clear choice of posture. You can try to know each person, or you can try to understand the conversation. Somonitor is built for the second.
+
+## What is the difference in practice?
+
+### Definitions
+
+- Listening: analysing public posts at the level of themes, concepts and communities. The unit of analysis is the conversation.
+
+- Tracking: linking behaviour to an identifiable person over time and across places. The unit of analysis is the individual.
+
+- Aggregate insight: a finding that holds across many posts and does not depend on who wrote any one of them.
+
+- Evidence trail: the set of posts that support a finding, available for review, without building profiles of the authors.
+
+A listening question sounds like "what are parents worried about when choosing a preschool?" A tracking question sounds like "which parents in this postcode looked at preschools last week?" The first leads to better products and messages. The second leads to targeting that may work for a quarter and cost you trust for years.
+
+## Is listening automatically ethical?
+
+No. Public posts are public, but that does not make every use acceptable. A small community discussing a health condition, a fan group with its own norms, a teenager venting: all public, all deserving care. Ethical listening is a practice, not a property of the data.
+
+We think of it the way the best researchers do. You are a guest in other people's conversations. You learn from them; you do not exploit them.
+
+## A practical code for ethical listening
+
+- Report patterns, not people. Findings should describe themes and communities. Never build lists of individuals from listening data.
+
+- Quote with care. When you share example posts internally, remove handles unless the author is a public figure speaking publicly. Never quote vulnerable people in external material.
+
+- Do not respond to everything you hear. Joining a conversation you were not invited into can feel intrusive. Respond where people address you or where you can clearly help.
+
+- Respect community norms. Some spaces are public by platform but private by culture. Read the room before you act on what you learned there.
+
+- Make conclusions checkable. Every AI-generated finding should link to the posts that support it, so a human can confirm the machine did not over-reach.
+
+- Keep the purpose honest. Use listening to understand and serve, not to manipulate a moment of vulnerability.
+
+## Why does checkability matter for ethics?
+
+AI summarisation makes listening faster, and it also makes it easier to be confidently wrong. A model might label a group "angry" when they are joking, or merge two communities that would be offended to be merged. If you cannot see the posts behind the conclusion, you cannot catch the mistake, and you may act on a caricature of real people.
+
+This is why Somonitor is built on SOMIN's approach to AI that listens (https://somin.ai/vision/): every concept tag traces to the posts that evidence it. Checkability is not only a quality feature. It is how you keep humans accountable for what the machine says about other humans. We expand on this in why every AI conclusion should be checkable (/blog/checkable-ai-conclusions/).
+
+## What does good listening look like for a brand?
+
+Consider a family-focused retailer that hears, across many public posts, that parents feel judged by baby-product advertising showing impossibly calm homes. A tracking mindset would look for those parents and retarget them. A listening mindset changes the creative, so the next campaign shows real mess and real tiredness, and nobody had to be followed anywhere.
+
+That is the difference in one example. The brand responded to the conversation, visibly, and everyone benefited. For further reading on how this kind of audience understanding becomes a campaign, see the Mothercare Singapore case study (https://somin.ai/brands-mothercare-sg-case-study/) on the SOMIN site.
+
+## How do teams keep each other honest?
+
+Ethics rarely fails in a policy document. It fails in a rushed Tuesday meeting. Make a habit of asking two questions whenever a listening insight becomes an action: would the people who wrote these posts be comfortable seeing how we used them, and can we show the evidence? Our sister consultancy AgentC writes about keeping human judgment in charge of automated marketing (https://agentc.marketing/), and the same principle applies here: people own the decision, machines prepare it.
+
+## What about personalisation?
+
+Teams sometimes worry that giving up tracking means giving up relevance. It does not. Listening produces relevance at the level of the message rather than the person: you learn which worries, hopes and phrases are common in a community, and you write for them. Everyone who shares that concern feels understood, and nobody feels followed. That is a different kind of personalisation, earned rather than extracted.
+
+The brands audiences trust are the ones that clearly heard them, not the ones that clearly watched them.
+
+## Checklist: are we listening or tracking?
+
+- Is the unit of analysis a theme or community, not a person?
+
+- Could we explain this use to the authors without embarrassment?
+
+- Are sensitive communities handled with extra care?
+
+- Can every conclusion be traced to posts and checked?
+
+- Does the action respond to what people said, rather than exploit what we inferred?
+
+Listening is the more modest choice, and the more effective one over time. It is the reason Somonitor exists.
+
+
+# Crisis early warning: reading the signals before they trend
+URL: https://somonitor.ai/blog/crisis-early-warning-signals/ · Published 2026-09-14
+
+A social media crisis rarely appears from nowhere. It usually starts as a small cluster of posts with an unusual emotion, then spreads into new communities before volume explodes. Early warning means watching for that combination of shifting emotion, spread and velocity on sensitive topics, rather than waiting for raw mention volume to spike.
+
+## Why do volume alerts fire too late?
+
+Most listening tools offer a volume alert: tell me when mentions double. By the time mentions double, journalists have often noticed, screenshots are circulating and the story has a shape you no longer control. Volume is a lagging indicator.
+
+It is also a noisy one. A product launch, a holiday or a viral meme can double your mentions with no risk at all. Teams that receive volume alerts learn to ignore them, which is the worst possible outcome for an early-warning system.
+
+Somonitor's view is that the earliest crisis signal is a change in meaning, not a change in volume.
+
+## What signals actually come first?
+
+### Definitions: the four early signals
+
+- Emotional shift: a topic that usually carries mild frustration starts to carry anger, fear or disgust.
+
+- Community spread: a complaint that lived in one community starts appearing in unrelated ones, such as parenting groups or local news commenters.
+
+- Narrative crystallisation: scattered complaints converge on one shared story, often with a phrase or image that repeats.
+
+- Velocity: the rate of new posts accelerating, even from a low base.
+
+Any one of these on its own is usually noise. Two together deserve a look. Three together on a sensitive topic deserve a call.
+
+Somonitor detects these using SOMIN's concept engine, which decodes tones, emotions and tensions from each post. Because the engine keeps every concept linked to its evidence, an alert arrives with the posts that triggered it. Your team reads ten posts and decides, rather than debating a chart.
+
+## How should a team triage an alert?
+
+We recommend a simple three-question triage, completed within the hour.
+
+- Is it true? Read the triggering posts. Is there a real incident, a misunderstanding, or coordinated activity?
+
+- Is it spreading? Has it crossed from one community into others? Who is amplifying it?
+
+- Is it about values? Complaints about service are usually recoverable. Stories that suggest a brand does not care about safety, fairness or honesty are much harder to recover from.
+
+Map the answers to a response level: monitor, prepare a holding line, or escalate to leadership. Write the levels down in advance. Crisis decisions made at 11pm without a framework are rarely good ones.
+
+## A worked example
+
+Picture a food delivery app. On a Tuesday afternoon, Somonitor flags a small cluster of posts about riders being penalised for delays caused by heavy rain. Volume is low, a few dozen posts. But the emotion has moved from irritation to indignation, and the posts have started appearing outside rider forums, in general community groups where customers are sympathising with riders.
+
+Volume alone would not trigger anything. The combination of emotional shift and community spread on a fairness topic does. The team reads the posts, confirms the policy is real, and has a clear decision to make before the story crystallises. The cost of acting on Tuesday is a policy review. The cost of acting on Friday, after the story has a hashtag, is very different.
+
+For a further read on how a delivery brand used audience evidence in a competitive market, the Keeta Hong Kong case study (https://somin.ai/brands-keeta-hk-case-study/) on the SOMIN site is worth your time.
+
+## How do you avoid crying wolf?
+
+An early-warning system lives or dies on trust. If it alerts too often, people stop reading. Three practices help.
+
+- Flag sensitive topics deliberately. Safety, pricing fairness, staff treatment, data privacy. Alert sensitivity should be higher on these and lower elsewhere.
+
+- Require two signals. An emotional shift without spread, or spread without emotional shift, goes into a daily digest rather than an alert.
+
+- Review every alert monthly. Which were useful? Which were noise? Tune thresholds accordingly.
+
+## What happens after the crisis?
+
+Listening does not stop when the story fades. Watch whether the narrative returns, whether the emotion attached to your brand on that theme recovers, and whether competitors are discussed differently as a result. That aftermath belongs in your share-of-conversation grid (/blog/share-of-voice-that-means-something/), because a crisis often shifts which themes you own.
+
+It is also a moment to check how AI assistants now describe you. Generative answers can carry an old crisis long after social media has moved on. Our sister agency SNMRush works on visibility in AI answers (https://snmrush.com/), and its perspective is useful when a story lingers.
+
+## Who writes the holding line?
+
+Decide this before you need it. A holding line is a short, factual statement that acknowledges the issue, says what you are doing and promises an update. It should be drafted by comms, checked by legal and approved by a named leader, with templates ready for your sensitive topics. When an alert arrives, the team edits a template rather than starting from a blank page. Speed matters, but accuracy matters more: a holding line that later proves wrong becomes its own story.
+
+The question is never whether people are talking. It is whether the meaning of what they say has changed.
+
+## Checklist: is your early warning ready?
+
+- Sensitive topics listed and agreed with comms and legal.
+
+- Alerts based on emotion, spread and velocity, not volume alone.
+
+- Every alert includes the posts that triggered it.
+
+- A one-hour triage routine with named owners.
+
+- Pre-written response levels and holding lines.
+
+- A monthly review of alert quality.
+
+Crises are rarely surprises in hindsight. The posts were there. Early warning is simply the discipline of reading them while it still matters, and SOMIN's social media tooling (https://somin.ai/somin-social-media-manager/) and Somonitor are designed to make that discipline practical.
+
+
+# How to measure audiences across platforms consistently
+URL: https://somonitor.ai/blog/measuring-audiences-across-platforms/ · Published 2026-09-07
+
+You cannot add up likes, views and reposts across platforms and call it an audience. Each platform defines engagement differently. A consistent cross-platform read uses a shared layer instead: the themes, emotions and tensions people express, wherever they post. Measure what audiences say and feel, then compare platforms on that common footing.
+
+## Why is cross-platform measurement so hard?
+
+In the conversations we analyse among marketers, one frustration surfaces again and again: they cannot measure audiences across platforms in a way anyone trusts. Every platform has its own dashboard, definitions and incentives. A view on one is not a view on another. Engagement rate is calculated differently almost everywhere.
+
+The usual workaround is a spreadsheet that normalises the metrics into one blended score. It looks rigorous and means very little. It tells you how each platform's algorithm treated your content, not who your audience is or what they think.
+
+Somonitor takes a different position: stop trying to reconcile platform metrics, and measure the one thing that is comparable everywhere, which is what people say.
+
+## What is a shared concept layer?
+
+### Definitions
+
+- Platform metric: a number defined by a platform, such as views or saves. Comparable only within that platform.
+
+- Concept: a theme, tone, emotion or tension expressed in a post, regardless of where it was posted.
+
+- Concept layer: the set of concepts tagged across all platforms you listen to, using one consistent model.
+
+- Platform skew: how the mix of concepts on one platform differs from the overall mix.
+
+Because SOMIN's concept engine applies the same model to a post wherever it appears, the concept layer is consistent by design. A post expressing "worry about price" is tagged the same way on a video platform as on a forum. That is what makes comparison honest. You can see how the concept engine fits into SOMIN's wider platform on the SOMIN for brands page (https://somin.ai/somin-for-brands/).
+
+## How do you build a cross-platform read?
+
+- Listen on every platform where your audience talks. Include forums and review sites, not only the big social networks. Many of the most candid conversations happen there.
+
+- Tag with one model. Use the same concept engine across all sources so the categories mean the same thing.
+
+- Report the overall concept mix first. What does the whole audience care about, feel and argue over?
+
+- Then report platform skew. Where is a concept over- or under-represented? Short-video platforms may skew to aspiration; forums to problem-solving; professional networks to identity.
+
+- Use platform metrics only within platforms. They are still useful for optimising content on that platform. They are not an audience measure.
+
+## A worked example
+
+A skincare brand sees strong engagement numbers on short video and weak numbers on forums, and concludes its audience lives on short video. The concept layer tells a richer story. Short video is dominated by aspiration and routine-sharing, with mild positive emotion. Forums carry fewer posts but much more about ingredient worries and skin reactions, with anxiety and frustration attached.
+
+Both are the same audience at different moments. The short-video audience is browsing; the forum audience is deciding. The brand's real gap is not reach on forums but answers to the anxious questions people ask there. That insight never appears in a blended engagement score.
+
+Turning those anxious questions into content that can be found in search and in AI answers is exactly what our sister agency SNMRush (https://snmrush.com/) specialises in.
+
+## What about audience size?
+
+Teams still need a sense of scale. Use it carefully. Report the number of unique posts and, where possible, unique authors per concept, and be clear that this is conversation volume, not reach. Most people who share a feeling never post about it. Conversation is a sample of what the audience thinks, not a census.
+
+This is also where cold-start problems bite. A new market or new product often has little platform data to optimise on. Listening to the conversation that already exists in the category, before you have your own audience, gives you a starting point. SOMIN's Fujifilm case study (https://somin.ai/brands-fujifilm-case-study/) is a helpful read on bringing audience evidence into a category.
+
+## How does this connect with your other dashboards?
+
+A concept layer does not replace your analytics. It sits above them. Paid media dashboards tell you what you bought. Platform analytics tell you how content performed. Somonitor tells you what the audience across all of it is saying and feeling, so you can judge whether the performance numbers point in the right direction.
+
+When you find a concept that moves differently across platforms, read the posts. Our article on going beyond sentiment to tones, emotions and tensions (/blog/beyond-sentiment-tones-emotions-tensions/) explains how to interpret what you find.
+
+## How do you present this to leadership?
+
+Leaders want one number, and a concept layer offers several. The compromise is a short page: the three concepts that grew most across all platforms, the one platform where your audience feels noticeably different, and the action you recommend. Add a line on what platform metrics say for context. Keep the evidence one click away. Over a few months, leaders learn to ask "what are people saying?" before "how many views?", which is the shift you want.
+
+Platforms measure attention in their own currency. Conversation is the only currency every platform shares.
+
+## Checklist for a consistent cross-platform read
+
+- All relevant platforms, including forums and reviews, are in scope.
+
+- One concept model is applied everywhere.
+
+- Overall concept mix is reported before platform splits.
+
+- Platform metrics are kept within their platform.
+
+- Conversation volume is not presented as reach.
+
+- Every concept links to example posts from each platform.
+
+Cross-platform measurement stops being a reconciliation exercise once you agree on what you are measuring. Measure meaning, and the platforms line up.
+
+
+# Niche fandoms: why small communities set the tone
+URL: https://somonitor.ai/blog/niche-fandoms-listening/ · Published 2026-08-31
+
+Niche fandoms are small, highly engaged communities organised around a shared passion, from women's football to a single game franchise. Broad listening often misses them because their volume is low. Yet they shape language, taste and opinion long before the mainstream catches up. Finding them means listening for intensity and shared vocabulary, not just volume.
+
+## Why do brands underestimate niche fandoms?
+
+Among the tensions we hear from marketers is a quiet admission: they underestimate niche fandoms. Women's football is the example that comes up most often. For years, the conversation was small by volume, so dashboards ranked it low and budgets followed. The fans were there all along, organised, articulate and loyal. Brands that arrived late found the culture already formed, and not always friendly to latecomers.
+
+The underlying error is treating volume as importance. In fandoms, intensity matters more than size, because intense communities create the language, references and expectations that larger audiences later adopt.
+
+## What makes a fandom signal different?
+
+### Definitions
+
+- Fandom: a community defined by sustained, shared passion, with its own norms and in-jokes.
+
+- Intensity: the depth of emotion and engagement per post, such as long replies, debate and creative output.
+
+- Shared vocabulary: terms, nicknames and references that only insiders use. A strong marker of a real community.
+
+- Crossover: fandom language or references appearing in general conversation. Often the first sign of mainstream adoption.
+
+Mainstream conversation tends to be shallow and broad: many people, mild feelings. Fandom conversation is narrow and deep: fewer people, strong feelings, lots of detail. Sentiment scoring flattens the difference. SOMIN's concept engine, which powers Somonitor, reads tones and emotions such as pride, protectiveness and grievance, which is what makes fandom signals visible.
+
+## How do you find fandoms you do not know about?
+
+- Start broad, then look for density. Listen to your category and look for clusters where emotion is unusually strong relative to volume.
+
+- Follow the vocabulary. When you see a term you do not understand, that is a doorway. Search for it and see where it lives.
+
+- Map the adjacent passions. Fans of one thing are often fans of related things. Women's football fans may overlap with particular music, fashion or causes.
+
+- Watch for crossover. When fandom references show up in general conversation, the window for early, authentic involvement is closing.
+
+## How should a brand engage without being resented?
+
+Fandoms are protective. They notice when a brand arrives because the numbers became attractive. They also remember who showed up early and took them seriously. A few principles:
+
+- Listen for longer than feels necessary. Understand the history, the grievances and the heroes before you say anything.
+
+- Respond to what fans actually want. Often it is visibility, access or fairness, not merchandise.
+
+- Use the community's words carefully. Borrowed slang used badly is worse than plain language.
+
+- Give, then ask. Support the thing fans care about before asking them to care about you.
+
+## A worked example
+
+Imagine a sports drinks brand reviewing its sponsorship options. Its broad listening ranks women's football well below the men's game on volume. Somonitor's concept view shows something else: women's football conversation carries high pride and high frustration, the frustration focused on poor broadcast access and lack of kit designed for women. Shared vocabulary is rich. Crossover into general sports conversation is rising.
+
+That is not a reason to slap a logo on a team. It is a reason to fund the thing fans are frustrated about, perhaps better access to matches or properly designed kit, and to say so plainly. The brand arrives as a contributor, not a tourist. The idea is drawn from the evidence, and every step can be traced back to posts the team has read.
+
+For how audience evidence shaped a youth-focused brand's approach, the SM Universe case study (https://somin.ai/brands-sm-universe-case-study/) on the SOMIN site is a useful further read.
+
+## Where do Gen Z and fandoms meet?
+
+Many younger audiences organise identity around fandoms rather than demographics. That makes fandom listening one of the best ways to understand Gen Z without stereotyping them. We go deeper in segmenting Gen Z by conversation, not birth year (/blog/gen-z-segmentation-by-conversation/). For cultural interpretation of what you find, our sister consultancy Mindfuse decodes personas, tensions and cultural codes across Southeast Asia (https://mindfuse.sg/).
+
+We have also discussed fandom-led strategy with practitioners at Marketing Mondays (https://mondays.marketing/), the Singapore marketing community whose weekly show decodes one real signal each episode. Fandoms make good episodes because the signal is so often visible before the volume.
+
+## How do you measure a fandom over time?
+
+Track four things monthly: the volume of posts in the community, the dominant emotions, the strength of shared vocabulary, and the rate of crossover into general conversation. If you engage, add a fifth: how the community talks about your brand. A respected contributor is discussed with warmth and specific detail. A tourist is discussed with suspicion, or not at all. That difference is visible in the posts long before it shows up in any sales figure.
+
+Fandoms are the market's early adopters of meaning. Listen to them first and you hear the future of the mainstream.
+
+## Checklist: are you missing a fandom?
+
+- Do you look at emotional intensity, not only volume?
+
+- Do you investigate unfamiliar vocabulary?
+
+- Have you mapped adjacent passions of your audience?
+
+- Are you tracking crossover into mainstream conversation?
+
+- Do you know what fans want before deciding what to offer?
+
+Small communities are easy to dismiss and expensive to discover late. Listening for intensity, through tools such as SOMIN's strategy layer (https://somin.ai/somin-strategy/) and Somonitor's community radar, keeps them on your map.
+
+
+# Why every AI listening conclusion should be checkable
+URL: https://somonitor.ai/blog/checkable-ai-conclusions/ · Published 2026-08-17
+
+A checkable AI conclusion is one you can trace back to the specific posts that support it. In social listening, AI can summarise thousands of conversations in seconds, but summaries can over-generalise, misread sarcasm or invent patterns. Linking every conclusion to its evidence lets a human verify it in minutes, which is what makes AI listening trustworthy enough to act on.
+
+## What goes wrong with unchecked AI summaries?
+
+Generative AI changed social listening almost overnight. Instead of reading charts, teams ask a model "what are people saying about us?" and get a fluent paragraph. Fluency is the problem. A confident summary feels true whether or not it is.
+
+We see three common failure modes:
+
+- Over-generalisation: a handful of loud posts become "customers feel".
+
+- Misread tone: sarcasm, irony and in-jokes read as literal praise or anger.
+
+- Pattern invention: a neat narrative that the underlying posts do not actually support.
+
+Each one leads to decisions built on a story the audience never told. That is why Somonitor holds a firm principle, drawn from the insight behind the whole product: every AI conclusion must be checkable against the posts behind it.
+
+## What does "checkable" mean in practice?
+
+### Definitions
+
+- Concept tag: a label such as "price anxiety" or "pride in local origin" applied to a post.
+
+- Evidence set: the posts that carry a given tag or support a given conclusion.
+
+- Traceability: the ability to move from any conclusion to its evidence set in one step.
+
+- Spot-check: reading a sample of the evidence set to confirm the conclusion holds.
+
+Somonitor is built on SOMIN's concept engine, which ties every concept tag to the posts that evidence it. A summary that says "worry about delivery times is rising" links straight to the posts tagged with that worry, ordered and filterable. You can read the case for any claim. More on SOMIN's thinking about evidence-led AI is on its reporting page (https://somin.ai/somin-reporting/).
+
+## How do you audit an AI insight in ten minutes?
+
+- Open the evidence. If you cannot, treat the insight as a hypothesis, not a finding.
+
+- Read ten posts at random. Not the top ten; random ones. Do they say what the summary says?
+
+- Check the spread. Are the posts from many authors and communities, or a few accounts posting repeatedly?
+
+- Look for counter-evidence. Search for the opposite view. How large is it?
+
+- Check the time window. Is the pattern recent, steady, or an old spike?
+
+- Write the conclusion in your own words. If it differs from the AI's, use yours.
+
+Ten minutes of reading saves weeks spent acting on a misread. It also builds confidence. Teams stop arguing about whether the dashboard is right and start discussing what to do.
+
+## Why does this matter beyond accuracy?
+
+There is a human reason too. Marketers we listen to describe a pressure to sound certain, and an anxiety about being caught out. An AI summary can make that worse, because it hands you certainty you have not earned. A checkable insight does the opposite. When someone asks "how do we know?", you open the posts. Confidence comes from evidence, not from the fluency of the summary.
+
+It also matters ethically. AI conclusions about audiences are conclusions about people. If no human can verify them, nobody is accountable for them. We explore that in listening versus tracking (/blog/listening-vs-tracking-ethics/).
+
+## How do reasoning models change this?
+
+Newer reasoning models are better at structured analysis and less prone to obvious errors. They are still only as good as the evidence they are given, and their reasoning is still easier to trust when you can see the inputs. Our sister studio GPT5 Marketing works with CMOs on reasoning-model workflows (https://gpt5.marketing/), and its view matches ours: the evidence layer is what makes the reasoning worth anything.
+
+## A worked example
+
+An AI summary reports that "customers find the new app confusing". The team opens the evidence. Of the posts, most are about one specific screen, the payment step, and a cluster are from a single community comparing the app with a rival. The general statement was technically supported and practically misleading. The real insight is narrower and more useful: fix the payment step, and look at what the rival does differently there.
+
+For how evidence-first audience work supports a brand decision, the Reassured case study (https://somin.ai/brands-reassured-case-study/) on the SOMIN site is a helpful read.
+
+## How do you build a team habit around evidence?
+
+Make the evidence link mandatory in every internal brief. When someone presents a listening insight in a meeting, the first question becomes "show us three posts", and it should take seconds to answer. Rotate the spot-check duty so everyone reads raw conversation regularly; it keeps the team close to how the audience actually talks. Keep a short log of times the AI summary over-reached and what the posts really said. Within a quarter, the log becomes a practical guide to where your category's conversation is easy to misread, and new team members learn from it faster than from any training deck.
+
+## Where does Somonitor draw the line?
+
+Somonitor will summarise, cluster and alert, but it will not present a conclusion without its evidence set attached. If a theme is supported by too few posts or too few authors, the brief says so plainly rather than rounding it up into a trend. We would rather tell you a signal is weak than hand you false confidence. That restraint is a product decision, and it comes straight from the listening that shaped Somonitor: people trust what they can verify.
+
+An insight you cannot check is a rumour with good grammar.
+
+## Checklist for trustworthy AI listening
+
+- Every conclusion links to its evidence set.
+
+- Spot-checks are a routine, not an exception.
+
+- Spread across authors and communities is visible.
+
+- Counter-evidence is easy to find.
+
+- Humans write the final conclusion and own it.
+
+AI makes listening fast. Checkability makes it trustworthy. Somonitor is designed so you never have to choose.
+
+
+# Beyond sentiment: reading tones, emotions and tensions
+URL: https://somonitor.ai/blog/beyond-sentiment-tones-emotions-tensions/ · Published 2026-08-10
+
+Sentiment analysis sorts posts into positive, negative or neutral. That hides most of what matters. Tones describe how people speak, emotions describe what they feel, and tensions describe the conflicts they are trying to resolve. Reading all three turns a flat sentiment line into a clear picture of what your audience needs and why.
+
+## What is wrong with sentiment scores?
+
+Sentiment was a sensible start for social listening. It is cheap, easy to chart and roughly right on average. But averages hide the things marketers need most. "Negative" covers mild irritation and genuine fury. "Positive" covers polite approval and fierce loyalty. "Neutral" is often where the most useful questions live, the people asking for help before they buy.
+
+Sentiment also struggles with how people actually talk online: sarcasm, irony, affectionate complaint ("I hate how much I love this"), and the dry humour common in many Southeast Asian online spaces. A model trained to find polarity reads all of these badly.
+
+Somonitor's position is simple: sentiment tells you the weather; tones, emotions and tensions tell you the climate.
+
+## What are tones, emotions and tensions?
+
+### Definitions
+
+- Tone: how something is said. Playful, sarcastic, earnest, weary, authoritative.
+
+- Emotion: what the writer feels. Pride, anxiety, delight, frustration, nostalgia, disappointment.
+
+- Tension: a conflict the writer is caught in. "I want to treat my kids, but I worry about sugar." "I want the cheapest option, but I do not trust cheap."
+
+- Concept: any of the above, tagged consistently across posts and linked to evidence.
+
+SOMIN, an AI audience-research platform, built its concept engine to decode exactly these layers from real posts. Somonitor uses that engine as its listening layer. You can see how SOMIN describes the difference from conventional social tools on its comparison page (https://somin.ai/somin-vs-social-tools/).
+
+## Why are tensions the most valuable signal?
+
+Tones and emotions describe the conversation. Tensions explain it. A tension is a reason to act: people caught between two things they want are looking for a way through. Brands that resolve a real tension earn attention without shouting.
+
+Consider a few tensions we hear often in marketing conversations themselves: wanting to use AI while fearing it makes everyone sound the same; wanting proof of results while distrusting vanity metrics; wanting personalisation while disliking brands that know too much. Each one is a brief waiting to be written.
+
+## How do you read a conversation in three layers?
+
+- Start with emotion. Which emotions dominate the topic, and which are rising?
+
+- Add tone. Is the anger sarcastic and resigned, or earnest and mobilising? The second is far more urgent.
+
+- Find the tension. What are people torn between? Phrase it as "I want X, but Y".
+
+- Check the evidence. Read the posts behind each layer. Our guide to checking AI conclusions (/blog/checkable-ai-conclusions/) covers how.
+
+- Write the implication. What would resolve the tension? That is your product, service or message idea.
+
+## A worked example
+
+A home-cleaning brand sees a steady "neutral to slightly negative" sentiment line and assumes nothing is happening. The three-layer reading tells another story. Emotion: growing guilt and weariness. Tone: self-mocking, often funny. Tension: "I want a clean home, but I do not have the time or energy, and I feel judged for that."
+
+That tension rewrites the brief. Advertising that shows spotless homes makes the guilt worse. A message about "good enough, done fast" resolves it. The sentiment line never moved, but the opportunity was there all along.
+
+For a further read on how audience tensions became a brand decision, see the Miraflora case study (https://somin.ai/brands-miraflora-case-study/) on the SOMIN site.
+
+## How do tensions help content teams?
+
+Content built on trends tends to look like everyone else's. Content built on a real tension sounds like it understands the reader. That is why we share tension maps with content teams, not only with insight teams. Our sister consultancy GPT3 Marketing grounds generative content systems in what audiences actually respond to (https://gpt3.marketing/), and tensions are a natural input to that work.
+
+The weekly show from Marketing Mondays (https://mondays.marketing/) often takes this approach too: one signal, decoded until the tension underneath is clear, then turned into something a team can act on.
+
+## How do you track tensions over time?
+
+Tensions change slowly, which makes them useful for strategy. Keep a short list of the five tensions most relevant to your brand and review them monthly. Is each one growing, steady or fading? Has a competitor started to resolve one? Is a new tension forming? Emotions can swing week to week with news and memes; tensions show the underlying shape of what people need. When a tension you have been tracking starts to ease, check whether that is because someone, perhaps a competitor, has resolved it. That is a positioning signal worth acting on before it shows in market share.
+
+## How does Somonitor present the three layers?
+
+Each topic view in Somonitor shows the leading emotions, the dominant tones and the tensions people express, side by side, with a trend line for each over time. Selecting any of them opens the tagged posts. That keeps the analysis honest and quick: you can move from "frustration is rising" to the actual sentences behind it in one step, then decide whether it needs a product fix, a message change or simply watching.
+
+Sentiment tells you whether people are happy. Tensions tell you what would make them happier.
+
+## Checklist: are you reading beyond sentiment?
+
+- Do your reports name specific emotions, not just polarity?
+
+- Do you distinguish sarcastic from earnest tone?
+
+- Is at least one tension written as "I want X, but Y"?
+
+- Is every layer linked to example posts?
+
+- Does each tension come with an implication for action?
+
+Sentiment is not wrong; it is just not enough. The richer reading is where the useful decisions come from.
+
+
+# Segmenting Gen Z by conversation, not birth year
+URL: https://somonitor.ai/blog/gen-z-segmentation-by-conversation/ · Published 2026-07-27
+
+Gen Z is a birth cohort, not a segment. People born in the same fifteen years differ hugely in what they value, where they talk and what they need. Segmenting by conversation means grouping younger audiences by the communities they join, the emotions they express and the tensions they share, which produces segments you can actually brief against.
+
+## Why does "Gen Z" fail as a segment?
+
+Marketers we listen to describe a recurring frustration with Gen Z segmentation. Briefs say "target Gen Z", research decks list the same traits (digital native, values-driven, short attention span), and campaigns end up speaking to a stereotype that few real young people recognise.
+
+The problem is not lack of data. It is the wrong unit. A 17-year-old student in Jakarta and a 27-year-old engineer in Singapore share a generation label and very little else. Somonitor's view is that the conversation is a better segmenter than the calendar.
+
+## What does conversation-led segmentation look like?
+
+### Definitions
+
+- Cohort: a group defined by birth years. Useful for context, weak for targeting.
+
+- Conversation segment: a group defined by shared communities, emotions and tensions in what they post.
+
+- Community anchor: the fandom, interest or identity that a segment organises around.
+
+- Cultural code: shared references, humour and norms that signal belonging.
+
+Using SOMIN's concept engine, Somonitor clusters public conversation by these signals. The result is not "Gen Z" but several distinct groups: perhaps young professionals anxious about career and money, students organised around gaming and creator culture, and a values-driven group focused on sustainability and local identity. Each has its own language and its own tensions.
+
+## How do you build conversation segments?
+
+- Listen to the category, not the cohort. Start with the topics relevant to your brand and see who is talking.
+
+- Cluster by community anchor. What fandoms, interests or identities keep appearing? Our piece on niche fandoms (/blog/niche-fandoms-listening/) explains how to find them.
+
+- Layer emotion and tension. Within each cluster, what do people feel and what are they torn between?
+
+- Note the cultural codes. Humour, slang and references that would make a brand sound native, or fake.
+
+- Name segments by tension, not age. "Ambitious but broke" is a more useful name than "Gen Z, 22–27".
+
+## A worked example
+
+A bank wants to reach young adults with a savings product. The cohort brief says Gen Z values financial independence. The conversation tells a sharper story. One segment, early-career professionals, carries anxiety about rising costs and a tension between enjoying life now and saving for a home. Another, students, mostly jokes about being broke, with a tone of cheerful resignation and little interest in long-term saving yet. A third shares side-hustle tips and celebrates small wins.
+
+Those are three different briefs. The first wants reassurance and realistic plans. The second wants humour and low commitment. The third wants tools and recognition. A single "Gen Z" campaign would have fitted none of them.
+
+For further reading on how audience evidence shaped work with younger learners and families, see the Viva School case study (https://somin.ai/brands-viva-school-case-study/) on the SOMIN site.
+
+## Where does cultural nuance come in?
+
+Conversation segments in Southeast Asia are shaped by culture as much as by interest. Norms around money, family expectations, honesty and humour vary by market and community. Listening shows you the signals; interpreting them well often needs cultural expertise. Our sister consultancy Mindfuse specialises in Gen Z personas and cultural codes in Singapore and SEA (https://mindfuse.sg/), and its work pairs naturally with Somonitor's data.
+
+SOMIN's own tools for agencies (https://somin.ai/somin-for-agencies/) are designed to turn this kind of segmentation into briefs teams can share.
+
+## How often do these segments change?
+
+Faster than cohort descriptions, slower than trends. Communities form, merge and fade; tensions shift with the economy and life stage. Review segments every quarter. Watch for a segment's community anchor losing energy, a new shared vocabulary emerging, or a tension easing. When that happens, update the segment and the brief rather than forcing new behaviour into an old description.
+
+Keep one thing constant: every segment should be backed by posts you can show a colleague. A segment that exists only in a slide is a stereotype with a new name. A segment you can open and read is a real group of people with real needs, and that is the only kind worth briefing a creative team against.
+
+## How do segments turn into briefs?
+
+A useful segment brief fits on one page: the segment's name, its community anchor, its leading emotions, its core tension in "I want X, but Y" form, three cultural codes to respect, and five example posts. Creative teams can work from that immediately. Media teams can use the community anchors to choose where to show up. And anyone in the room can open the posts and check that the segment is real.
+
+One final caution: resist the urge to give each segment a stock-photo persona. A face and a fictional name make segments feel real while drifting away from the evidence. Let the posts speak for the segment instead.
+
+Young audiences do not segment themselves by birth year. They segment themselves by what they care about and who they talk to.
+
+## Checklist for Gen Z segmentation
+
+- Segments are defined by communities and tensions, not age bands.
+
+- Each segment has named cultural codes and example posts.
+
+- Segment names describe a tension or need.
+
+- Market-by-market differences are checked, not assumed.
+
+- Briefs are tested against real posts before production.
+
+The generation label will stay useful for headlines. For decisions, listen to the conversation.
+
+
+# Generative AI is changing brand visibility. Listen first
+URL: https://somonitor.ai/blog/generative-ai-brand-visibility-listening/ · Published 2026-07-20
+
+Generative AI assistants increasingly answer questions about brands by synthesising what people have written online. That means public conversation now shapes not only what people read on social media but what AI tells them about you. Listening to that conversation shows you, ahead of time, the themes and doubts an AI answer is likely to repeat.
+
+## Why does generative AI make listening more important?
+
+A recurring theme in the conversations we analyse is unease about how generative AI changes brand visibility. People now ask assistants which product to buy, which service is trustworthy, which brand is better for a particular need. The answer arrives as a confident paragraph, drawn from reviews, forums, articles and social posts.
+
+The brand does not write that paragraph. The conversation does. Somonitor's view is that public conversation has become the raw material for AI's opinion of you, so understanding it is no longer optional.
+
+## How does conversation reach an AI answer?
+
+### Definitions
+
+- Generative answer: a response written by an AI assistant or AI-powered search feature, rather than a list of links.
+
+- Source conversation: public reviews, forum threads, articles and posts that a model may draw on directly or indirectly.
+
+- Repeated theme: a claim about a brand that appears often across sources and is therefore likely to surface in answers.
+
+- Answer gap: a question people ask that no clear, credible source answers well.
+
+The exact mechanics differ by system, and they change often. The principle is stable: themes that are widely and consistently expressed in credible public sources are more likely to appear in AI answers. That includes complaints that were never resolved and praise that nobody amplified.
+
+## What should you listen for?
+
+- Repeated themes about you. What claims recur across platforms and forums? These are candidates for AI answers.
+
+- Old stories that linger. A past issue may still dominate forum threads long after social media moved on.
+
+- Comparisons. How do people compare you with competitors? Assistants are often asked "X or Y?"
+
+- Unanswered questions. Where do people ask about you and get no good answer? Those gaps get filled by someone.
+
+- Tone of credible voices. Detailed reviews and expert posts often carry more weight than casual mentions.
+
+## A worked example
+
+A consumer electronics brand discovers, through listening, that a battery problem from two product generations ago still dominates forum threads about the brand. Social media has moved on, and current products are well reviewed. But anyone asking an assistant "is this brand reliable?" is likely to hear about the battery.
+
+The response is not to argue with the AI. It is to address the conversation: publish clear, factual information about what changed, encourage current owners to share experiences, and answer the reliability question directly in places people look. Listening identified which theme to address and showed the posts that keep it alive.
+
+Turning those findings into answer-ready content is the specialism of our sister agency SNMRush (https://snmrush.com/), which works on visibility in search and AI answers. For related reading, SOMIN's Defender case study (https://somin.ai/brands-defender-case-study/) shows evidence-led audience work for a brand.
+
+## Does this mean brands should game the conversation?
+
+No, and it would not work for long. Fake reviews and seeded posts damage trust when discovered, and audiences are increasingly sharp about it. The sustainable approach is the same one that has always worked: hear the real concerns, fix what is genuinely wrong, explain what is misunderstood, and make true information easy to find. Our article on the ethics of listening (/blog/listening-vs-tracking-ethics/) sets out the principles.
+
+## How do you keep the human connection?
+
+Another tension we hear: as more brand discovery runs through automated answers, how do brands stay human? Listening is part of the answer. Brands that visibly respond to real people give the conversation, and therefore the AI, something warm and specific to repeat. We discussed this question with practitioners in the Marketing Mondays (https://mondays.marketing/) community, where the consensus was that the human touch now has to be evidenced in public, not claimed in advertising.
+
+SOMIN's AI agents (https://somin.ai/ai-agents/) are designed with the same balance in mind: automation to prepare, humans to decide and respond.
+
+## What should you measure?
+
+Track the handful of themes most associated with your brand month by month, and the emotion attached to each. Note which of them appear in detailed reviews and well-trafficked forum threads, since those are the sources most likely to be summarised. Log the answer gaps you find and whether they have been filled. Together, these give you an early view of the story AI is likely to tell, and whether it is improving. They also make a useful bridge between social, search and comms teams, who often look at the same problem from different dashboards without realising it.
+
+## How does Somonitor support this?
+
+Somonitor's concept view groups what people say about your brand into themes, each linked to its posts, so you can see at a glance which claims are repeated most widely and in which communities. Answer gaps show up as clusters of unanswered questions. Because SOMIN's concept engine tags tone as well as topic, you can also tell whether a repeated theme is carried by detailed, credible reviews or by passing jokes, which matters when judging what an AI is likely to repeat.
+
+The same view makes progress visible. When you address an old issue properly, you should see the theme thin out in new posts over the following months, and the emotion attached to it soften. If it does not, the response did not land, and the posts will usually tell you why.
+
+You cannot write the AI's answer about your brand. You can listen to the conversation it will be built from.
+
+## Checklist: is the conversation ready for AI answers?
+
+- You know the five themes most often repeated about your brand.
+
+- Old issues still circulating in forums have been identified.
+
+- Common comparison questions have clear, credible answers.
+
+- Answer gaps are logged and assigned to owners.
+
+- Responses are honest, specific and visible.
+
+Generative AI did not remove the need to listen. It raised the stakes.
+
+
+# How to set up always-on social listening that people use
+URL: https://somonitor.ai/blog/always-on-listening-setup/ · Published 2026-07-06
+
+Always-on social listening is a continuous programme that monitors conversation about your brand, competitors and category, then turns it into regular decisions. It works when it has sharp queries, named owners, a fixed rhythm of reviews and alerts tuned to matter. Without those, even the best dashboard becomes a tab nobody opens.
+
+## Why do listening programmes fade?
+
+Many teams have been here. A listening tool is bought with enthusiasm, a dashboard is built, a launch meeting is held. Three months later, nobody opens it. When a crisis arrives, someone scrambles to search manually.
+
+The cause is rarely the technology. It is a programme designed as a reporting project rather than a habit. Somonitor's view: always-on listening is an operating rhythm first and a tool second.
+
+## What does a working programme need?
+
+### Definitions
+
+- Query: the set of terms, names, misspellings and exclusions that defines what you listen to.
+
+- Listening scope: brand, competitors, category topics and communities you deliberately monitor.
+
+- Rhythm: the fixed schedule of reviews: daily scan, weekly brief, monthly deep dive.
+
+- Owner: the named person accountable for reading, interpreting and routing each signal.
+
+- Alert: an automated notice triggered by meaningful change, not routine volume.
+
+## How do you set it up, step by step?
+
+- Write down the decisions listening should inform. Positioning, product fixes, crisis response, content planning. If you cannot name the decision, you will not use the data.
+
+- Define scope. Your brand and products; three to six competitors; two or three category topics; any communities you know matter.
+
+- Build honest queries. Include misspellings, nicknames and local slang. Exclude obvious false positives, such as other meanings of your brand name. Review results and refine weekly for the first month.
+
+- Agree the rhythm. A ten-minute daily scan of alerts and new themes; a weekly one-page brief; a monthly review of share of conversation and tensions.
+
+- Name owners. One person owns the programme; each signal type routes to someone who can act on it.
+
+- Tune alerts. Start with sensitive topics only. See our guide to crisis early warning (/blog/crisis-early-warning-signals/) for the signals that matter.
+
+- Close the loop. Every monthly review lists actions taken because of listening. If the list is empty, change something.
+
+## What should the weekly brief contain?
+
+Keep it to one page. Somonitor's weekly brief, written using SOMIN's concept engine, follows this structure, and it works just as well by hand:
+
+- What changed: two or three shifts in themes, emotions or share of conversation.
+
+- Why it matters: one line each on the implication.
+
+- Evidence: links to the posts behind each point.
+
+- Suggested action and owner.
+
+- Watch list: early signals not yet worth action.
+
+The evidence links are not decoration. They are what lets busy colleagues trust the brief in seconds. We explain why in making AI conclusions checkable (/blog/checkable-ai-conclusions/).
+
+## A worked example
+
+A regional retailer sets up listening with the decisions written down first: which store issues to fix, which product lines to promote, and how to respond to complaints. Queries include store nicknames used locally. The weekly brief goes to operations, merchandising and comms. In the first month, the brief surfaces repeated complaints about one store's queue times and enthusiastic posts about a little-promoted product range. Both are routed to owners. That is the moment listening becomes a habit, because people saw it lead to action.
+
+For further reading, the Pepsi India case study (https://somin.ai/brands-pepsi-india-case-study/) on the SOMIN site shows audience intelligence at work for a large consumer brand.
+
+## Who should be involved?
+
+Listening that sits only with the social team stays a social metric. Involve insight, product, customer service and leadership in the monthly review. Agencies can run the rhythm on a brand's behalf; our sister agency AgentC (https://agentc.marketing/) builds agent-run workflows of this kind, with human strategists owning judgment. SOMIN's agency tools (https://somin.ai/somin-for-agencies/) support the same model.
+
+And if you want to hear how other marketers run listening day to day, the Marketing Mondays (https://mondays.marketing/) community in Singapore is a good place to compare notes.
+
+## What are the common mistakes?
+
+Three come up again and again. First, queries that are too broad, which drown the team in irrelevant posts and teach them to ignore the tool. Second, too many alerts too early, before anyone knows what normal looks like. Third, briefs written for the social team alone, so insight never reaches the people who can fix products or policies. Each is easy to avoid if you start narrow, tune slowly and share widely.
+
+## How does Somonitor fit this rhythm?
+
+Somonitor is built around the daily, weekly and monthly cadence described here. Alerts arrive with the posts that triggered them, so the daily scan takes minutes. The weekly brief is drafted for you using SOMIN's concept engine and every line links to evidence, so the owner edits rather than writes. The monthly view shows share of conversation by theme and tracks the tensions you care about. The tool does the reading at scale; your team keeps the judgment.
+
+Finally, budget time for reading. However good the automation, someone on the team should read raw posts every week. It keeps queries honest, catches what models miss and keeps everyone close to how customers actually talk.
+
+A listening programme is not measured by its dashboard. It is measured by the decisions it changed.
+
+## Setup checklist
+
+- Decisions listening will inform are written down.
+
+- Scope covers brand, competitors, category and communities.
+
+- Queries include slang and misspellings, and are refined weekly at first.
+
+- Daily, weekly and monthly rhythms are scheduled with owners.
+
+- Alerts start with sensitive topics only.
+
+- Monthly reviews record actions taken.
+
+Get the rhythm right and the tool becomes indispensable. That is what Somonitor is designed to support.
