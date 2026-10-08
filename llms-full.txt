@@ -42,7 +42,7 @@
 
 ## Sister companies
 - [Marketing Mondays](https://mondays.marketing/): One real signal, decoded every Monday
-- [Trafix](https://trafix.app/): Paid traffic, measured in profit
+- [FMedia](https://fmedia.marketing/): Paid traffic, measured in profit
 - [AgentC](https://agentc.marketing/): Agents play. Humans conduct.
 - [GPT3 Marketing](https://gpt3.marketing/): Six years of AI content craft
 - [GPT5 Marketing](https://gpt5.marketing/): Marketing redesigned for reasoning models
@@ -116,7 +116,7 @@ Share of conversation moves slowly on most themes and quickly on a few. A monthl
 
 ## Where does share of voice fit with paid media?
 
-Teams often use share of voice to justify spend: if we buy more reach, our share will go up. It will, briefly, and that is the problem. Paid reach raises volume but does little to change which themes you own. If you want to understand whether a campaign is actually profitable rather than just loud, our sister app Trafix looks at true-profit returns on paid traffic (https://trafix.app/). Pair the two and you can see whether spend moved both the conversation and the margin.
+Teams often use share of voice to justify spend: if we buy more reach, our share will go up. It will, briefly, and that is the problem. Paid reach raises volume but does little to change which themes you own. If you want to understand whether a campaign is actually profitable rather than just loud, our sister app FMedia looks at true-profit returns on paid traffic (https://fmedia.marketing/). Pair the two and you can see whether spend moved both the conversation and the margin.
 
 Share of voice tells you how loud you are. Share of conversation tells you what you are known for. Only one of those is a strategy.
 
