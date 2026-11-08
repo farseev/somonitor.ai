@@ -42,6 +42,7 @@
 - [Tiếng Việt](https://somonitor.ai/vi/) · [blog](https://somonitor.ai/vi/blog/) (10 articles translated)
 - [Bahasa Indonesia](https://somonitor.ai/id/) · [blog](https://somonitor.ai/id/blog/) (10 articles translated)
 - [Bahasa Melayu](https://somonitor.ai/ms/) · [blog](https://somonitor.ai/ms/blog/) (10 articles translated)
+- [हिन्दी](https://somonitor.ai/hi/) · [blog](https://somonitor.ai/hi/blog/) (10 articles translated)
 
 ## FAQ
 - **What is Somonitor?** Somonitor is an always-on social and brand listening app. It measures share of voice, decodes conversation signals such as tones, emotions and tensions, and raises early warnings when a topic starts to shift. It is built on SOMIN's concept engine, and every insight links to the public posts behind it.
