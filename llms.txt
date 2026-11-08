@@ -35,6 +35,7 @@
 ## Other languages
 
 - [简体中文](https://somonitor.ai/zh-hans/) · [blog](https://somonitor.ai/zh-hans/blog/) (10 articles translated)
+- [繁體中文](https://somonitor.ai/zh-hant/) · [blog](https://somonitor.ai/zh-hant/blog/) (10 articles translated)
 - [日本語](https://somonitor.ai/ja/) · [blog](https://somonitor.ai/ja/blog/) (10 articles translated)
 
 ## FAQ
